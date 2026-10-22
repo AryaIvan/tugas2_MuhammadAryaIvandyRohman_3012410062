@@ -1,6 +1,19 @@
 # halo_flutter
 
-A new Flutter project.
+# Hasil Tugas Dart
+
+## Soal 1
+![Soal 1](Soal_1.png)
+
+## Soal 2
+![Soal 2](Soal_2.png)
+
+## Soal 3
+![Soal 3](Soal_3.png)
+
+## Soal 4
+![Soal 4](Soal_4.png)
+
 
 ## Getting Started
 
